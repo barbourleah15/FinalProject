@@ -1,2 +1,1 @@
-# FinalProject
-Project 3
+# Visualization-Project
